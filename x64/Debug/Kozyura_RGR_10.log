@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Kozyura_Kursovaya_10\Kozyura_RGR_10\objects.h(79,12): warning C4305: =: усечение из "double" в "float"
-C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Kozyura_Kursovaya_10\Kozyura_RGR_10\operations.h(108,68): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
-  Kozyura_RGR_10.vcxproj -> C:\Users\User\Desktop\Andrew\Андрюшка-программист 2\Kozyura_Kursovaya_10\x64\Debug\Kozyura_RGR_10.exe
